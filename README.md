@@ -72,6 +72,7 @@ While these insights provide clear direction, several factors must be considered
 
 ### Tools Used
 - Python (Pandas, NLTK)
+- SQL
 - YouTube API
 - Looker Studio
 - Notion & Trello (Project Management)
